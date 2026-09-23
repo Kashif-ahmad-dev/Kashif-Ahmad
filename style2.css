@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+h2{
+    color:#333;
+    font-size:2em;
+    text-align:center;
+}
+p{
+    color:#666;
+    font-size:1em;
+    line-height:1.5;
+    text-align:justify;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+#box1{
+    height:100px;
+    width:600px;
+    border-radius: 6px;
+    border-color:black;
+    border-style: solid;
+}
